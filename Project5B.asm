@@ -2,9 +2,6 @@ TITLE Combinations Calculator     (Project5B.asm)
 
 ; Author: Michael Childress
 ; Last Modified: 8/10/2018
-; OSU email address: childrem@oregonstate.edu
-; Course number/section: CS271 - 400
-; Assignment Number: 5B                Due Date: 8/12/2018
 ; Description: This program introduces itself and then generates and displays two randomly generated
 ;              numbers. One is n, which will be in the range 3 to 12, and the other is r, which will
 ;			   be in the range 1 to n. It then asks the user for their input on the number of combinations
